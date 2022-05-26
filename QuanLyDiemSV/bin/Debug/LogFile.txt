@@ -1,0 +1,92 @@
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022		KHOA	Xem	dgKhoa
+5/24/2022		KHOA	Add	Thể dục
+5/24/2022		KHOA	Update	Thể dục A
+5/24/2022		KHOA	Delete	TT
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	KHOA	Xem	dgKhoa
+5/24/2022	ykhoa	KHOA	Add	Thể dục
+5/24/2022	vuca	Login		
+5/24/2022	vuca	KHOA	Xem	dgKhoa
+5/24/2022	vuca	Login		
+5/24/2022	vuca	KHOA	Xem	dgKhoa
+5/24/2022	vuca	Login		
+5/24/2022	vuca	KHOA	Xem	dgKhoa
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	KHOA	Xem	dgKhoa
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	KHOA	Xem	dgKhoa
+5/24/2022	ykhoa	KHOA	Xem	dgKhoa
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	KHOA	Xem	dgKhoa
+5/24/2022	vuca	Login		
+5/24/2022	vuca	KHOA	Xem	dgKhoa
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	KHOA	Xem	dgKhoa
+5/24/2022	vuca	Login		
+5/24/2022	vuca	KHOA	Xem	dgKhoa
+5/24/2022	vuca	KHOA	Add	An Toàn Thông Tin
+5/24/2022	vuca	KHOA	Xem	dgKhoa
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Nganh	Xem	Danh sach Nganh
+5/24/2022	ykhoa	KHOA	Xem	dgKhoa
+5/24/2022	ykhoa	Nganh	Xem	Danh sach Nganh
+5/24/2022	ykhoa	Lop	Xem	Danh sách lớp
+5/24/2022	ykhoa	HocPhan	Xem	Danh Sách HP
+5/24/2022	ykhoa	SinhVien	Xem	Danh Sach Sinh Vien
+5/24/2022	ykhoa	DiemHP	Xem	dgDiemHP
+5/24/2022	ykhoa	Login		
+5/24/2022	ykhoa	Nganh	Xem	Danh sach Nganh
+5/24/2022	ykhoa	KHOA	Xem	dgKhoa
+5/24/2022	ykhoa	KHOA	Xem	dgKhoa
+5/24/2022	ykhoa	Nganh	Xem	Danh sach Nganh
+5/24/2022	ykhoa	Lop	Xem	Danh sách lớp
+5/25/2022	ykhoa	Login		
+5/25/2022	ykhoa	KHOA	Xem	dgKhoa
+5/25/2022	ykhoa	Nganh	Xem	Danh sach Nganh
+5/25/2022	ykhoa	Lop	Xem	Danh sách lớp
+5/25/2022	ykhoa	HocPhan	Xem	Danh Sách HP
+5/25/2022	ykhoa	SinhVien	Xem	Danh Sach Sinh Vien
+5/25/2022	ykhoa	DiemHP	Xem	dgDiemHP
+5/25/2022	ykhoa	DiemHP	Xem	dgDiemHP
+5/25/2022	ykhoa	Login		
+5/25/2022	ykhoa	Login		
+5/25/2022	ykhoa	Login		
+5/25/2022	ykhoa	KHOA	Xem	dgKhoa
+5/25/2022	ykhoa	KHOA	Delete	TT
+5/25/2022	ykhoa	KHOA	Update	Thể dục A
+5/25/2022	ykhoa	KHOA	Delete	TT
+5/25/2022	ykhoa	Login		
+5/25/2022	ykhoa	Login		
+5/25/2022	ykhoa	KHOA	Xem	dgKhoa
+5/25/2022	ykhoa	Login		
+5/25/2022	ykhoa	KHOA	Xem	dgKhoa
+5/25/2022	ykhoa	Nganh	Xem	Danh sach Nganh
+5/25/2022	ykhoa	Lop	Xem	Danh sách lớp
+5/25/2022	ykhoa	SinhVien	Xem	Danh Sach Sinh Vien
+5/25/2022	ykhoa	HocPhan	Xem	Danh Sách HP
+5/25/2022	ykhoa	HocPhan	Xem	Danh Sách HP
+5/25/2022	ykhoa	HocPhan	Xem	Danh Sách HP
+5/25/2022	ykhoa	Lop	Xem	Danh sách lớp
+5/25/2022	ykhoa	Login		
+5/25/2022	ykhoa	Login		
+5/25/2022	ykhoa	Login		
+5/25/2022	ykhoa	KHOA	Xem	dgKhoa
+5/25/2022	ykhoa	Login		
